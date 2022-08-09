@@ -1,0 +1,32 @@
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\Domain\bin\Debug\net6.0\Domain.dll
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\Domain\bin\Debug\net6.0\ref\Domain.dll
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\Domain\bin\Debug\net6.0\Entities.dll
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\Domain\bin\Debug\net6.0\Entities.pdb
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\Domain\obj\Debug\net6.0\Domain.csproj.CopyComplete
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\Domain\obj\Debug\net6.0\Domain.dll
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Ecommerce_SEM_ATUALIZACAO\EcommerceDDD\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\Cliente\OneDrive\Área de Trabalho\ATUALIZA-O-ECOMMERCE-PARA-O-NET-6-main\ATUALIZA-O-ECOMMERCE-PARA-O-NET-6-main\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\Cliente\OneDrive\Área de Trabalho\ATUALIZA-O-ECOMMERCE-PARA-O-NET-6-main\ATUALIZA-O-ECOMMERCE-PARA-O-NET-6-main\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\Users\Cliente\OneDrive\Área de Trabalho\ATUALIZA-O-ECOMMERCE-PARA-O-NET-6-main\ATUALIZA-O-ECOMMERCE-PARA-O-NET-6-main\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\Cliente\OneDrive\Área de Trabalho\ATUALIZA-O-ECOMMERCE-PARA-O-NET-6-main\ATUALIZA-O-ECOMMERCE-PARA-O-NET-6-main\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\Cliente\OneDrive\Área de Trabalho\ATUALIZA-O-ECOMMERCE-PARA-O-NET-6-main\ATUALIZA-O-ECOMMERCE-PARA-O-NET-6-main\Domain\bin\Debug\net6.0\Entities.dll
+C:\Users\Cliente\OneDrive\Área de Trabalho\ATUALIZA-O-ECOMMERCE-PARA-O-NET-6-main\ATUALIZA-O-ECOMMERCE-PARA-O-NET-6-main\Domain\bin\Debug\net6.0\Entities.pdb
+C:\Users\Cliente\OneDrive\Área de Trabalho\ATUALIZA-O-ECOMMERCE-PARA-O-NET-6-main\ATUALIZA-O-ECOMMERCE-PARA-O-NET-6-main\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Cliente\OneDrive\Área de Trabalho\ATUALIZA-O-ECOMMERCE-PARA-O-NET-6-main\ATUALIZA-O-ECOMMERCE-PARA-O-NET-6-main\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\OneDrive\Área de Trabalho\ATUALIZA-O-ECOMMERCE-PARA-O-NET-6-main\ATUALIZA-O-ECOMMERCE-PARA-O-NET-6-main\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Cliente\OneDrive\Área de Trabalho\ATUALIZA-O-ECOMMERCE-PARA-O-NET-6-main\ATUALIZA-O-ECOMMERCE-PARA-O-NET-6-main\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\Cliente\OneDrive\Área de Trabalho\ATUALIZA-O-ECOMMERCE-PARA-O-NET-6-main\ATUALIZA-O-ECOMMERCE-PARA-O-NET-6-main\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\OneDrive\Área de Trabalho\ATUALIZA-O-ECOMMERCE-PARA-O-NET-6-main\ATUALIZA-O-ECOMMERCE-PARA-O-NET-6-main\Domain\obj\Debug\net6.0\Domain.csproj.CopyComplete
+C:\Users\Cliente\OneDrive\Área de Trabalho\ATUALIZA-O-ECOMMERCE-PARA-O-NET-6-main\ATUALIZA-O-ECOMMERCE-PARA-O-NET-6-main\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\Cliente\OneDrive\Área de Trabalho\ATUALIZA-O-ECOMMERCE-PARA-O-NET-6-main\ATUALIZA-O-ECOMMERCE-PARA-O-NET-6-main\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\Cliente\OneDrive\Área de Trabalho\ATUALIZA-O-ECOMMERCE-PARA-O-NET-6-main\ATUALIZA-O-ECOMMERCE-PARA-O-NET-6-main\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\Cliente\OneDrive\Área de Trabalho\ATUALIZA-O-ECOMMERCE-PARA-O-NET-6-main\ATUALIZA-O-ECOMMERCE-PARA-O-NET-6-main\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+C:\Users\Cliente\OneDrive\Área de Trabalho\ATUALIZA-O-ECOMMERCE-PARA-O-NET-6-main\ATUALIZA-O-ECOMMERCE-PARA-O-NET-6-main\Domain\obj\Debug\net6.0\ref\Domain.dll
